@@ -1,0 +1,122 @@
+.music-list-box {
+  overflow-x: auto;
+  margin-top: 1rem;
+  border: 3px solid;
+  border-image: linear-gradient(to right, #ffb8d6, #e78ca1) 3;
+  box-shadow: 0 0px 5px rgba(255, 163, 201);
+}
+
+.music-list-box::-webkit-scrollbar {
+  display: none;
+}
+.music-list {
+  width: 100%;
+  box-sizing: border-box;
+  min-width: 540px;
+}
+
+.music-list li {
+  box-sizing: border-box;
+  display: flex;
+  padding: 3px 2px;
+  transition: .15s;
+  align-items: center;
+  min-height: 3rem;
+}
+
+.music-list li.current :is(p .alia) {
+  color: white !important;
+}
+
+.music-list li p .copy {
+  width: 0rem;
+  text-align: center;
+  cursor: pointer;
+  transition: .3s;
+  opacity: 0;
+  visibility: hidden;
+}
+
+:is(.music-list li:nth-child(n+2):hover, .music-list li.current) p .copy {
+  width: 3.4rem;
+  opacity: 1;
+  visibility: visible;
+}
+
+.music-list li p .copy path {
+  fill: rgb(88, 88, 88);
+}
+
+.music-list li p .copy+div {
+  flex: 1;
+}
+
+.music-list li:nth-child(n+2) p:nth-of-type(1) {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.music-list li:nth-child(n+2) {
+  font-size: clamp(1.2rem, 1.5vw, 1.4rem);
+  line-height: 1.3;
+}
+
+.display-none {
+  display: none !important;
+}
+
+.music-list li:nth-child(event) {
+  font-weight: bold;
+  font-size: clamp(1.4rem, 1.5vw, 1.6rem);
+}
+
+.music-list li:nth-of-type(even):not([style="display:none"]) {
+  background-color: rgba(255, 163, 201, 0.2);
+}
+
+.music-list :is(li:nth-child(n+2):hover, li.current) {
+  background-color: rgba(255, 163, 201, 0.7) !important;
+}
+
+.music-list li:nth-child(n+2):hover :is(p .alia) {
+  color: white;
+}
+
+.music-list li p:nth-of-type(1) {
+  flex: 4;
+  min-width: 180px;
+}
+
+.music-list li p:nth-of-type(2) {
+  min-width: 110px;
+  flex: 2;
+}
+
+.music-list li p:nth-of-type(3) {
+  width: 90px;
+}
+
+.music-list li p:nth-of-type(4) {
+  min-width: 130px;
+  flex: 3;
+}
+
+.music-list li p:nth-of-type(n+2) {
+  text-align: center;
+}
+
+.music-list li p {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  padding: 0 0.2rem;
+}
+
+.music-list li p .alia {
+  font-size: 1.2rem;
+  color: #8b8b8b;
+  transition: .15s;
+}

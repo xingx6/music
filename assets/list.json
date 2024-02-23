@@ -1,0 +1,2309 @@
+{
+	"流行": [
+		{
+			"name": "爱",
+			"atrist": "小虎队",
+			"category": "流行"
+		},
+		{
+			"name": "默",
+			"atrist": "那英",
+			"category": "流行",
+			"describe": "电影《何以笙箫默》主题插曲"
+		},
+		{
+			"name": "问",
+			"atrist": "梁静茹",
+			"category": "流行"
+		},
+		{
+			"name": "我",
+			"atrist": "蔡依林",
+			"category": "流行"
+		},
+		{
+			"name": "枫",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "光",
+			"atrist": "刘惜君",
+			"category": "流行"
+		},
+		{
+			"name": "画",
+			"atrist": "赵雷",
+			"category": "流行"
+		},
+		{
+			"name": "醉",
+			"atrist": "时代少年团",
+			"category": "流行"
+		},
+		{
+			"name": "弈",
+			"atrist": "祖娅纳惜",
+			"category": "流行"
+		},
+		{
+			"name": "骁",
+			"atrist": "井胧/井迪",
+			"category": "流行"
+		},
+		{
+			"name": "囍",
+			"atrist": "葛东琪",
+			"category": "流行"
+		},
+		{
+			"name": "堕",
+			"atrist": "Zyboy忠宇",
+			"category": "流行"
+		},
+		{
+			"name": "笼",
+			"atrist": "张碧晨",
+			"category": "流行",
+			"describe": "电影《消失的她》片尾主题曲"
+		},
+		{
+			"name": "断点",
+			"atrist": "张敬轩",
+			"category": "流行"
+		},
+		{
+			"name": "失眠",
+			"atrist": "邵帅",
+			"category": "流行"
+		},
+		{
+			"name": "不在",
+			"atrist": "韩安旭",
+			"category": "流行"
+		},
+		{
+			"name": "狂浪",
+			"atrist": "花姐",
+			"category": "流行"
+		},
+		{
+			"name": "童话",
+			"atrist": "光良",
+			"category": "流行"
+		},
+		{
+			"name": "谜底",
+			"atrist": "汪苏泷",
+			"category": "流行"
+		},
+		{
+			"name": "幻听",
+			"atrist": "许嵩",
+			"category": "流行"
+		},
+		{
+			"name": "缺氧",
+			"atrist": "杨丞琳",
+			"category": "流行",
+			"describe": "偶像剧《换换爱》片尾曲"
+		},
+		{
+			"name": "破裂",
+			"atrist": "音阙诗听/王梓钰",
+			"category": "流行"
+		},
+		{
+			"name": "放任荒凉",
+			"atrist": "任然",
+			"category": "流行"
+		},
+		{
+			"name": "雨爱",
+			"atrist": "杨丞琳",
+			"category": "流行",
+			"describe": "电视剧《海派甜心》片尾曲"
+		},
+		{
+			"name": "虚拟",
+			"atrist": "陈粒",
+			"category": "流行"
+		},
+		{
+			"name": "晴天",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "画心",
+			"atrist": "张檬/金恩圣",
+			"category": "流行",
+			"describe": "电影《新画皮》主题曲"
+		},
+		{
+			"name": "洛城",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "煎熬",
+			"atrist": "李佳薇",
+			"category": "流行"
+		},
+		{
+			"name": "泡沫",
+			"atrist": "G.E.M.邓紫棋",
+			"category": "流行",
+			"describe": "The Foam"
+		},
+		{
+			"name": "懒人",
+			"atrist": "空气凝/洛天依",
+			"category": "流行"
+		},
+		{
+			"name": "原谅",
+			"atrist": "张玉华",
+			"category": "流行",
+			"describe": "原曲： kiroro《ひとつぶの涙》"
+		},
+		{
+			"name": "倒影",
+			"atrist": "一支榴莲/朱恒锐",
+			"category": "流行"
+		},
+		{
+			"name": "情面",
+			"atrist": "予星河",
+			"category": "流行",
+			"describe": "超动情live"
+		},
+		{
+			"name": "情歌",
+			"atrist": "梁静茹",
+			"category": "流行"
+		},
+		{
+			"name": "过活",
+			"atrist": "高鱼",
+			"category": "流行"
+		},
+		{
+			"name": "青柠",
+			"atrist": "徐秉龙/桃十五",
+			"category": "流行"
+		},
+		{
+			"name": "天后",
+			"atrist": "陈势安",
+			"category": "流行"
+		},
+		{
+			"name": "飞机",
+			"atrist": "任然",
+			"category": "流行"
+		},
+		{
+			"name": "叶子",
+			"atrist": "范世錡",
+			"category": "流行",
+			"describe": "网剧《可惜不是你》插曲"
+		},
+		{
+			"name": "花海",
+			"atrist": "夏雨荷",
+			"category": "流行"
+		},
+		{
+			"name": "风铃",
+			"atrist": "周蕙",
+			"category": "流行"
+		},
+		{
+			"name": "下潜",
+			"atrist": "小川",
+			"category": "流行"
+		},
+		{
+			"name": "流年",
+			"atrist": "王菲",
+			"category": "流行"
+		},
+		{
+			"name": "人质",
+			"atrist": "张惠妹",
+			"category": "流行"
+		},
+		{
+			"name": "月光",
+			"atrist": "胡彦斌",
+			"category": "流行",
+			"describe": "动画《秦时明月》主题曲"
+		},
+		{
+			"name": "笔记",
+			"atrist": "周笔畅",
+			"category": "流行"
+		},
+		{
+			"name": "倒数",
+			"atrist": "G.E.M.邓紫棋",
+			"category": "流行"
+		},
+		{
+			"name": "笑纳",
+			"atrist": "Zhou小喵",
+			"category": "流行"
+		},
+		{
+			"name": "大鱼",
+			"atrist": "周深",
+			"category": "流行"
+		},
+		{
+			"name": "大暑",
+			"atrist": "音阙诗听/李佳思",
+			"category": "流行"
+		},
+		{
+			"name": "姗姗",
+			"atrist": "金玟岐",
+			"category": "流行",
+			"describe": "Shanshan"
+		},
+		{
+			"name": "致你",
+			"atrist": "yihuik苡慧",
+			"category": "流行",
+			"describe": "女声版"
+		},
+		{
+			"name": "逆战",
+			"atrist": "张杰",
+			"category": "流行"
+		},
+		{
+			"name": "你走",
+			"atrist": "李宗锦（松紧先生）",
+			"category": "流行"
+		},
+		{
+			"name": "不舍",
+			"atrist": "徐佳莹",
+			"category": "流行"
+		},
+		{
+			"name": "稻香",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "小小",
+			"atrist": "容祖儿",
+			"category": "流行"
+		},
+		{
+			"name": "空心",
+			"atrist": "光泽",
+			"category": "流行"
+		},
+		{
+			"name": "晚安",
+			"atrist": "颜人中",
+			"category": "流行"
+		},
+		{
+			"name": "少年",
+			"atrist": "许巍",
+			"category": "流行"
+		},
+		{
+			"name": "冬眠",
+			"atrist": "司南",
+			"category": "流行"
+		},
+		{
+			"name": "麒麟",
+			"atrist": "早安",
+			"category": "流行"
+		},
+		{
+			"name": "落霜",
+			"atrist": "花粥",
+			"category": "流行",
+			"describe": "奇幻爱情电影《傀儡姬》推广曲"
+		},
+		{
+			"name": "海底",
+			"atrist": "一支榴莲",
+			"category": "流行"
+		},
+		{
+			"name": "画皮",
+			"atrist": "纸砚Zyan",
+			"category": "流行"
+		},
+		{
+			"name": "她说",
+			"atrist": "林俊杰",
+			"category": "流行",
+			"describe": "She Says"
+		},
+		{
+			"name": "当你",
+			"atrist": "林俊杰",
+			"category": "流行",
+			"describe": "When you"
+		},
+		{
+			"name": "暖暖",
+			"atrist": "梁静茹",
+			"category": "流行"
+		},
+		{
+			"name": "像鱼",
+			"atrist": "王贰浪",
+			"category": "流行"
+		},
+		{
+			"name": "体面",
+			"atrist": "于文文",
+			"category": "流行"
+		},
+		{
+			"name": "雾里",
+			"atrist": "姚六一",
+			"category": "流行"
+		},
+		{
+			"name": "太阳",
+			"atrist": "邱振哲",
+			"category": "流行"
+		},
+		{
+			"name": "嚣张",
+			"atrist": "an",
+			"category": "流行",
+			"describe": "原版热播"
+		},
+		{
+			"name": "年轮",
+			"atrist": "张碧晨",
+			"category": "流行",
+			"describe": "电视剧《花千骨》插曲"
+		},
+		{
+			"name": "着迷",
+			"atrist": "MAREA/wweimm微米/Xi3R",
+			"category": "流行"
+		},
+		{
+			"name": "着魔",
+			"atrist": "张杰",
+			"category": "流行",
+			"describe": "网游《恶魔法则》主题曲"
+		},
+		{
+			"name": "如一",
+			"atrist": "不是花火呀/小田音乐社",
+			"category": "流行"
+		},
+		{
+			"name": "凉城",
+			"atrist": "任然",
+			"category": "流行"
+		},
+		{
+			"name": "有人",
+			"atrist": "赵钶",
+			"category": "流行"
+		},
+		{
+			"name": "嘉宾",
+			"atrist": "张远",
+			"category": "流行"
+		},
+		{
+			"name": "暗香",
+			"atrist": "沙宝亮",
+			"category": "流行"
+		},
+		{
+			"name": "溃散",
+			"atrist": "小咪咪",
+			"category": "流行"
+		},
+		{
+			"name": "演员",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "侧脸",
+			"atrist": "于果",
+			"category": "流行"
+		},
+		{
+			"name": "房间-新版",
+			"atrist": "刘瑞琦",
+			"category": "流行",
+			"describe": "电影《超时空同居》插曲"
+		},
+		{
+			"name": "撒野",
+			"atrist": "凯瑟喵",
+			"category": "流行",
+			"describe": "巫哲小说《撒野》官方主题曲"
+		},
+		{
+			"name": "爱妃",
+			"atrist": "后弦",
+			"category": "流行"
+		},
+		{
+			"name": "丝路",
+			"atrist": "梁静茹",
+			"category": "流行"
+		},
+		{
+			"name": "木兰",
+			"atrist": "李宇春",
+			"category": "流行",
+			"describe": "手游《王者荣耀》花木兰英雄主打歌"
+		},
+		{
+			"name": "狐狸",
+			"atrist": "薛之谦",
+			"category": "流行",
+			"describe": "电影《二代妖精之今生有幸》推广曲"
+		},
+		{
+			"name": "半空",
+			"atrist": "周菲戈",
+			"category": "流行"
+		},
+		{
+			"name": "宿敌",
+			"atrist": "许嵩",
+			"category": "流行"
+		},
+		{
+			"name": "沦陷",
+			"atrist": "Aie",
+			"category": "流行"
+		},
+		{
+			"name": "偏爱",
+			"atrist": "张芸京",
+			"category": "流行",
+			"describe": "电视剧《仙剑奇侠传三》插曲"
+		},
+		{
+			"name": "倒带",
+			"atrist": "蔡依林",
+			"category": "流行",
+			"describe": "电视剧《求婚事务所》最热插曲"
+		},
+		{
+			"name": "左边",
+			"atrist": "杨丞琳",
+			"category": "流行"
+		},
+		{
+			"name": "哭砂",
+			"atrist": "张杰",
+			"category": "流行",
+			"describe": "电视剧《再过把瘾》主题曲"
+		},
+		{
+			"name": "安静",
+			"atrist": "李圣杰",
+			"category": "流行"
+		},
+		{
+			"name": "信仰",
+			"atrist": "Jony J",
+			"category": "流行"
+		},
+		{
+			"name": "问风",
+			"atrist": "GAI周延/吉克隽逸",
+			"category": "流行"
+		},
+		{
+			"name": "遗憾",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "失踪",
+			"atrist": "林忆莲",
+			"category": "流行"
+		},
+		{
+			"name": "晚风",
+			"atrist": "陈婧霏",
+			"category": "流行"
+		},
+		{
+			"name": "海棠",
+			"atrist": "玄觞",
+			"category": "流行"
+		},
+		{
+			"name": "侧面",
+			"atrist": "张国荣",
+			"category": "流行"
+		},
+		{
+			"name": "麻雀",
+			"atrist": "李荣浩",
+			"category": "流行"
+		},
+		{
+			"name": "歌者",
+			"atrist": "谭维维",
+			"category": "流行",
+			"describe": "Singer"
+		},
+		{
+			"name": "悬溺",
+			"atrist": "葛东琪",
+			"category": "流行"
+		},
+		{
+			"name": "如愿",
+			"atrist": "王菲",
+			"category": "流行",
+			"describe": "电影《我和我的父辈》主题推广曲"
+		},
+		{
+			"name": "病态",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "I Do",
+			"atrist": "陈奕迅",
+			"category": "流行"
+		},
+		{
+			"name": "看淡",
+			"atrist": "田馥甄",
+			"category": "流行"
+		},
+		{
+			"name": "篇章",
+			"atrist": "张韶涵/王赫野",
+			"category": "流行"
+		},
+		{
+			"name": "无数",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "阿刁",
+			"atrist": "赵雷",
+			"category": "流行"
+		},
+		{
+			"name": "暗号",
+			"atrist": "不靠谱组合",
+			"category": "流行"
+		},
+		{
+			"name": "期许",
+			"atrist": "陈松伶",
+			"category": "流行",
+			"describe": "无线电视剧集《新上海滩》插曲"
+		},
+		{
+			"name": "就是我",
+			"atrist": "林俊杰",
+			"category": "流行",
+			"describe": "I'm The One"
+		},
+		{
+			"name": "木乃伊",
+			"atrist": "林俊杰",
+			"category": "流行",
+			"describe": "The Mummy"
+		},
+		{
+			"name": "童话镇",
+			"atrist": "暗杠",
+			"category": "流行"
+		},
+		{
+			"name": "追光者",
+			"atrist": "岑宁儿",
+			"category": "流行",
+			"describe": "电视剧《夏至未至》插曲"
+		},
+		{
+			"name": "克卜勒",
+			"atrist": "孙燕姿",
+			"category": "流行",
+			"describe": "Kepler"
+		},
+		{
+			"name": "静悄悄",
+			"atrist": "曲宵冰",
+			"category": "流行",
+			"describe": "原版热播"
+		},
+		{
+			"name": "百利甜",
+			"atrist": "凛歌",
+			"category": "流行"
+		},
+		{
+			"name": "我要你",
+			"atrist": "任素汐",
+			"category": "流行"
+		},
+		{
+			"name": "海海海",
+			"atrist": "阿俏",
+			"category": "流行"
+		},
+		{
+			"name": "我的梦",
+			"atrist": "张靓颖",
+			"category": "流行"
+		},
+		{
+			"name": "红玫瑰",
+			"atrist": "陈奕迅",
+			"category": "流行"
+		},
+		{
+			"name": "好几年",
+			"atrist": "刘心",
+			"category": "流行"
+		},
+		{
+			"name": "水星记",
+			"atrist": "郭顶",
+			"category": "流行"
+		},
+		{
+			"name": "关键词",
+			"atrist": "林俊杰",
+			"category": "流行",
+			"describe": "The Key"
+		},
+		{
+			"name": "丑八怪",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "多幸运",
+			"atrist": "韩安旭",
+			"category": "流行"
+		},
+		{
+			"name": "下雨天",
+			"atrist": "南拳妈妈",
+			"category": "流行"
+		},
+		{
+			"name": "讲真的",
+			"atrist": "摩登兄弟刘宇宁",
+			"category": "流行"
+		},
+		{
+			"name": "我爱他",
+			"atrist": "周星星",
+			"category": "流行"
+		},
+		{
+			"name": "云与海",
+			"atrist": "朱敏/朱昱陶",
+			"category": "流行"
+		},
+		{
+			"name": "好想你",
+			"atrist": "朱主爱",
+			"category": "流行"
+		},
+		{
+			"name": "达尔文",
+			"atrist": "蔡健雅",
+			"category": "流行"
+		},
+		{
+			"name": "简单爱",
+			"atrist": "洛淮枳",
+			"category": "流行"
+		},
+		{
+			"name": "大风吹",
+			"atrist": "王赫野",
+			"category": "流行"
+		},
+		{
+			"name": "东风破",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "若把你",
+			"atrist": "Kirsty刘瑾睿",
+			"category": "流行"
+		},
+		{
+			"name": "孤勇者",
+			"atrist": "陈奕迅",
+			"category": "流行",
+			"describe": "动画剧集《英雄联盟：双城之战》中文主题曲"
+		},
+		{
+			"name": "月牙湾",
+			"atrist": "庄心妍.",
+			"category": "流行"
+		},
+		{
+			"name": "起风了",
+			"atrist": "周深",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "龙卷风",
+			"atrist": "G.E.M.邓紫棋",
+			"category": "流行",
+			"describe": "Tornado"
+		},
+		{
+			"name": "门没锁",
+			"atrist": "品冠",
+			"category": "流行"
+		},
+		{
+			"name": "星月糖",
+			"atrist": "长岛十四_",
+			"category": "流行"
+		},
+		{
+			"name": "呐呐呐。(ねぇねぇねぇ。)",
+			"atrist": "诗岸/洛天依/吉武仁",
+			"category": "流行"
+		},
+		{
+			"name": "从前慢",
+			"atrist": "刘胡轶",
+			"category": "流行"
+		},
+		{
+			"name": "小幸运",
+			"atrist": "田馥甄",
+			"category": "流行"
+		},
+		{
+			"name": "雨樱花",
+			"atrist": "F.I.R.",
+			"category": "流行"
+		},
+		{
+			"name": "樱花草",
+			"atrist": "Sweety",
+			"category": "流行"
+		},
+		{
+			"name": "欧若拉",
+			"atrist": "张韶涵",
+			"category": "流行"
+		},
+		{
+			"name": "说爱你",
+			"atrist": "蔡依林",
+			"category": "流行"
+		},
+		{
+			"name": "七里香",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "晚安喵",
+			"atrist": "艾索",
+			"category": "流行",
+			"describe": "动画《罗小黑战记》插曲"
+		},
+		{
+			"name": "爱啦啦",
+			"atrist": "海楠",
+			"category": "流行"
+		},
+		{
+			"name": "万物生",
+			"atrist": "萨顶顶",
+			"category": "流行"
+		},
+		{
+			"name": "晚安歌",
+			"atrist": "姚晨",
+			"category": "流行"
+		},
+		{
+			"name": "小星星",
+			"atrist": "汪苏泷",
+			"category": "流行"
+		},
+		{
+			"name": "大天蓬",
+			"atrist": "琥珀大仙",
+			"category": "流行"
+		},
+		{
+			"name": "天亮了",
+			"atrist": "汤晶锦",
+			"category": "流行"
+		},
+		{
+			"name": "舞女泪",
+			"atrist": "韩宝仪",
+			"category": "流行"
+		},
+		{
+			"name": "爱转角",
+			"atrist": "罗志祥",
+			"category": "流行",
+			"describe": "电视剧《转角遇到爱》片尾曲"
+		},
+		{
+			"name": "学猫叫",
+			"atrist": "谭维维",
+			"category": "流行"
+		},
+		{
+			"name": "烦恼歌",
+			"atrist": "张学友",
+			"category": "流行"
+		},
+		{
+			"name": "虹之间",
+			"atrist": "金贵晟",
+			"category": "流行",
+			"describe": "电视剧《爱情公寓4》插曲"
+		},
+		{
+			"name": "不重要",
+			"atrist": "叶琼琳",
+			"category": "流行"
+		},
+		{
+			"name": "迷迭香",
+			"atrist": "张宇",
+			"category": "流行"
+		},
+		{
+			"name": "发如雪",
+			"atrist": "聂玮辰",
+			"category": "流行"
+		},
+		{
+			"name": "平行线",
+			"atrist": "柠安",
+			"category": "流行"
+		},
+		{
+			"name": "伪善者",
+			"atrist": "金渔",
+			"category": "流行"
+		},
+		{
+			"name": "兰花指",
+			"atrist": "阿里郎",
+			"category": "流行"
+		},
+		{
+			"name": "Lydia",
+			"atrist": "黄霄雲",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "Mojito",
+			"atrist": "周杰伦",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "2099",
+			"atrist": "章智捷",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "骂不醒",
+			"atrist": "胜屿",
+			"category": "流行"
+		},
+		{
+			"name": "怎么了",
+			"atrist": "周兴哲",
+			"category": "流行",
+			"describe": "What's Wrong"
+		},
+		{
+			"name": "他不懂",
+			"atrist": "张杰",
+			"category": "流行"
+		},
+		{
+			"name": "身骑白马",
+			"atrist": "张叶蕾",
+			"category": "流行",
+			"describe": "而你却靠近了逼我们视线交错"
+		},
+		{
+			"name": "万有引力",
+			"atrist": "汪苏泷",
+			"category": "流行"
+		},
+		{
+			"name": "蝴蝶之夏",
+			"atrist": "房东的猫",
+			"category": "流行",
+			"describe": "影视剧《将夜》插曲"
+		},
+		{
+			"name": "岁月神偷",
+			"atrist": "金玟岐",
+			"category": "流行"
+		},
+		{
+			"name": "告白气球",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "呼吸决定",
+			"atrist": "Fine乐团",
+			"category": "流行"
+		},
+		{
+			"name": "心情预报",
+			"atrist": "蜻蜓音乐社",
+			"category": "流行"
+		},
+		{
+			"name": "有何不可",
+			"atrist": "许嵩",
+			"category": "流行"
+		},
+		{
+			"name": "明天你好",
+			"atrist": "壹·琴房/唐境遥",
+			"category": "流行"
+		},
+		{
+			"name": "类似爱情",
+			"atrist": "萧亚轩",
+			"category": "流行",
+			"describe": "Similar to Love"
+		},
+		{
+			"name": "天空之外",
+			"atrist": "弦子",
+			"category": "流行",
+			"describe": "电视剧《陪你到世界之巅》片尾曲"
+		},
+		{
+			"name": "天外来物",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "回到夏天",
+			"atrist": "傲七爷/小田音乐社",
+			"category": "流行",
+			"describe": "我多想回到那个夏天"
+		},
+		{
+			"name": "星辰大海",
+			"atrist": "黄霄雲",
+			"category": "流行"
+		},
+		{
+			"name": "云烟成雨",
+			"atrist": "房东的猫",
+			"category": "流行",
+			"describe": "动画《我是江小白》片尾曲"
+		},
+		{
+			"name": "飞鸟和蝉",
+			"atrist": "李茜",
+			"category": "流行"
+		},
+		{
+			"name": "我好想你",
+			"atrist": "苏打绿",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "光年之外",
+			"atrist": "G.E.M.邓紫棋",
+			"category": "流行",
+			"describe": "电影《太空旅客》中文主题曲"
+		},
+		{
+			"name": "想起了你",
+			"atrist": "程响",
+			"category": "流行"
+		},
+		{
+			"name": "提拉米苏",
+			"atrist": "新乐尘符/李思雨",
+			"category": "流行"
+		},
+		{
+			"name": "世界你好",
+			"atrist": "石磊4ROCK",
+			"category": "流行"
+		},
+		{
+			"name": "你若成风",
+			"atrist": "许嵩/莫诗旎",
+			"category": "流行"
+		},
+		{
+			"name": "此彼绘卷",
+			"atrist": "森荧森荧森荧",
+			"category": "流行"
+		},
+		{
+			"name": "错位时空",
+			"atrist": "艾辰",
+			"category": "流行"
+		},
+		{
+			"name": "无人之岛",
+			"atrist": "任然",
+			"category": "流行"
+		},
+		{
+			"name": "匆匆那年",
+			"atrist": "王菲",
+			"category": "流行",
+			"describe": "Fleet of Time"
+		},
+		{
+			"name": "昨日青空",
+			"atrist": "尤长靖",
+			"category": "流行"
+		},
+		{
+			"name": "曾经你说",
+			"atrist": "明天见",
+			"category": "流行"
+		},
+		{
+			"name": "厚颜无耻",
+			"atrist": "曲肖冰",
+			"category": "流行"
+		},
+		{
+			"name": "月光真相",
+			"atrist": "奕辰",
+			"category": "流行"
+		},
+		{
+			"name": "你的答案",
+			"atrist": "阿冗",
+			"category": "流行"
+		},
+		{
+			"name": "纸短情长",
+			"atrist": "烟把儿",
+			"category": "流行"
+		},
+		{
+			"name": "我们的爱",
+			"atrist": "林俊杰",
+			"category": "流行"
+		},
+		{
+			"name": "天下无双",
+			"atrist": "陈奕迅",
+			"category": "流行"
+		},
+		{
+			"name": "一眼万年",
+			"atrist": "林俊杰",
+			"category": "流行",
+			"describe": "Forever"
+		},
+		{
+			"name": "宝贝宝贝",
+			"atrist": "李昕融/李凯稠/樊桐舟",
+			"category": "流行"
+		},
+		{
+			"name": "海市蜃楼",
+			"atrist": "Joysaaaa",
+			"category": "流行"
+		},
+		{
+			"name": "寒鸦少年",
+			"atrist": "华晨宇",
+			"category": "流行",
+			"describe": "电视剧《斗破苍穹》主题曲"
+		},
+		{
+			"name": "不谈爱情",
+			"atrist": "东南",
+			"category": "流行"
+		},
+		{
+			"name": "清明雨上",
+			"atrist": "许嵩",
+			"category": "流行"
+		},
+		{
+			"name": "熬夜上瘾",
+			"atrist": "刘亦心（可乐就是力量）",
+			"category": "流行"
+		},
+		{
+			"name": "旧梦一场",
+			"atrist": "钟意",
+			"category": "流行"
+		},
+		{
+			"name": "叶塞尼亚",
+			"atrist": "王晰",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "夏天的风",
+			"atrist": "温岚",
+			"category": "流行"
+		},
+		{
+			"name": "隔岸观火",
+			"atrist": "Double ZZZ",
+			"category": "流行"
+		},
+		{
+			"name": "枕边童话",
+			"atrist": "小田音乐社/傲七爷",
+			"category": "流行"
+		},
+		{
+			"name": "你不像她",
+			"atrist": "南拳妈妈",
+			"category": "流行",
+			"describe": "我爱你但你爱他"
+		},
+		{
+			"name": "不醉不会",
+			"atrist": "田子晴",
+			"category": "流行"
+		},
+		{
+			"name": "不配怀念",
+			"atrist": "小倩",
+			"category": "流行"
+		},
+		{
+			"name": "最后一页",
+			"atrist": "江语晨",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "责无旁贷",
+			"atrist": "浩纹",
+			"category": "流行"
+		},
+		{
+			"name": "雾里天涯",
+			"atrist": "DJRE",
+			"category": "流行"
+		},
+		{
+			"name": "心如止水",
+			"atrist": "Ice Paper",
+			"category": "流行"
+		},
+		{
+			"name": "浪漫告白",
+			"atrist": "柚柚",
+			"category": "流行"
+		},
+		{
+			"name": "无药可救",
+			"atrist": "张杰",
+			"category": "流行"
+		},
+		{
+			"name": "时间煮雨",
+			"atrist": "郁可唯",
+			"category": "流行",
+			"describe": "电影《小时代》主题曲"
+		},
+		{
+			"name": "公主殿下",
+			"atrist": "崔洋",
+			"category": "流行"
+		},
+		{
+			"name": "海绵宝宝",
+			"atrist": "汪苏泷",
+			"category": "流行"
+		},
+		{
+			"name": "感官先生",
+			"atrist": "刘凤瑶",
+			"category": "流行"
+		},
+		{
+			"name": "孤独颂歌",
+			"atrist": "陈文非",
+			"category": "流行"
+		},
+		{
+			"name": "好想好想",
+			"atrist": "古巨基",
+			"category": "流行",
+			"describe": "电视剧《情深深雨濛濛》片尾曲"
+		},
+		{
+			"name": "梦的光点",
+			"atrist": "王心凌",
+			"category": "流行"
+		},
+		{
+			"name": "漠河舞厅",
+			"atrist": "柳爽",
+			"category": "流行"
+		},
+		{
+			"name": "凤毛麟角",
+			"atrist": "薛之谦",
+			"category": "流行"
+		},
+		{
+			"name": "睫毛弯弯",
+			"atrist": "王心凌",
+			"category": "流行"
+		},
+		{
+			"name": "我很快乐",
+			"atrist": "刘惜君",
+			"category": "流行"
+		},
+		{
+			"name": "时间沦陷",
+			"atrist": "赖湘文",
+			"category": "流行"
+		},
+		{
+			"name": "妈妈的话",
+			"atrist": "Zyboy忠宇",
+			"category": "流行"
+		},
+		{
+			"name": "黑色蝴蝶",
+			"atrist": "汪苏泷",
+			"category": "流行"
+		},
+		{
+			"name": "自导自演",
+			"atrist": "于朦胧",
+			"category": "流行"
+		},
+		{
+			"name": "晚风作酒",
+			"atrist": "林风",
+			"category": "流行"
+		},
+		{
+			"name": "只要有你",
+			"atrist": "王巨星",
+			"category": "流行",
+			"describe": "最怕有一天你离我远去"
+		},
+		{
+			"name": "就忘了吧",
+			"atrist": "赵磊",
+			"category": "流行"
+		},
+		{
+			"name": "眼泪成诗",
+			"atrist": "孙燕姿",
+			"category": "流行"
+		},
+		{
+			"name": "心似烟火",
+			"atrist": "陈壹千",
+			"category": "流行",
+			"describe": "原曲：绊"
+		},
+		{
+			"name": "致命情人",
+			"atrist": "方拾贰（方十二）",
+			"category": "流行"
+		},
+		{
+			"name": "路过人间",
+			"atrist": "郁可唯",
+			"category": "流行"
+		},
+		{
+			"name": "此类生物",
+			"atrist": "王贰浪",
+			"category": "流行"
+		},
+		{
+			"name": "归途有风",
+			"atrist": "王菲",
+			"category": "流行",
+			"describe": "《万里归途》电影主题曲"
+		},
+		{
+			"name": "说散就散",
+			"atrist": "艾福杰尼/黄旭/田羽生",
+			"category": "流行",
+			"describe": "电影《前任3：再见前任》主题曲"
+		},
+		{
+			"name": "难以阻挡",
+			"atrist": "尹昔眠",
+			"category": "流行"
+		},
+		{
+			"name": "想去海边",
+			"atrist": "夏日入侵企画",
+			"category": "流行"
+		},
+		{
+			"name": "忽远忽近",
+			"atrist": "王双笙 (陈元汐)",
+			"category": "流行"
+		},
+		{
+			"name": "星间旅行 Interstellar Journey",
+			"atrist": "HOYO-MiX/茶理理",
+			"category": "流行"
+		},
+		{
+			"name": "性格不合",
+			"atrist": "袁小葳",
+			"category": "流行"
+		},
+		{
+			"name": "普通朋友",
+			"atrist": "陶喆",
+			"category": "流行"
+		},
+		{
+			"name": "玫瑰少年",
+			"atrist": "五月天",
+			"category": "流行"
+		},
+		{
+			"name": "万物起舞",
+			"atrist": "梁倩雨",
+			"category": "流行"
+		},
+		{
+			"name": "易燃易爆炸",
+			"atrist": "陈粒",
+			"category": "流行"
+		},
+		{
+			"name": "最美的期待",
+			"atrist": "周笔畅",
+			"category": "流行",
+			"describe": "电视剧《茧镇奇缘》主题曲"
+		},
+		{
+			"name": "慢慢喜欢你",
+			"atrist": "莫文蔚",
+			"category": "流行"
+		},
+		{
+			"name": "突然想起你",
+			"atrist": "萧亚轩",
+			"category": "流行"
+		},
+		{
+			"name": "所念皆星河",
+			"atrist": "房东的猫",
+			"category": "流行",
+			"describe": "演唱版"
+		},
+		{
+			"name": "人美路子野",
+			"atrist": "王梓钰/音阙诗听",
+			"category": "流行"
+		},
+		{
+			"name": "刚好遇见你",
+			"atrist": "李玉刚",
+			"category": "流行",
+			"describe": "Happened To Meet You"
+		},
+		{
+			"name": "陪我看日出",
+			"atrist": "蔡淳佳",
+			"category": "流行",
+			"describe": "电视剧《完美女人》主题曲"
+		},
+		{
+			"name": "第五个季节",
+			"atrist": "苏星婕",
+			"category": "流行"
+		},
+		{
+			"name": "被驯服的象",
+			"atrist": "蔡健雅",
+			"category": "流行"
+		},
+		{
+			"name": "红色高跟鞋",
+			"atrist": "蔡健雅",
+			"category": "流行",
+			"describe": "电影《爱情呼叫转移2》主题曲"
+		},
+		{
+			"name": "盛夏的果实",
+			"atrist": "莫文蔚",
+			"category": "流行"
+		},
+		{
+			"name": "爱的告别式",
+			"atrist": "关心妍",
+			"category": "流行"
+		},
+		{
+			"name": "漫长的告白",
+			"atrist": "双笙 (陈元汐)",
+			"category": "流行"
+		},
+		{
+			"name": "没那么简单",
+			"atrist": "黄小琥",
+			"category": "流行"
+		},
+		{
+			"name": "我们的纪念",
+			"atrist": "李雅微",
+			"category": "流行",
+			"describe": "偶像剧《放羊的星星》指定插曲"
+		},
+		{
+			"name": "第二杯半价",
+			"atrist": "纳豆nado",
+			"category": "流行"
+		},
+		{
+			"name": "回忆的沙漏",
+			"atrist": "G.E.M.邓紫棋",
+			"category": "流行"
+		},
+		{
+			"name": "还是会想你",
+			"atrist": "林达浪/h3R3",
+			"category": "流行"
+		},
+		{
+			"name": "请先说你好",
+			"atrist": "落落",
+			"category": "流行"
+		},
+		{
+			"name": "遗失的美好",
+			"atrist": "张韶涵",
+			"category": "流行",
+			"describe": "电视剧《海豚湾恋人》片尾曲"
+		},
+		{
+			"name": "最美的太阳",
+			"atrist": "张杰",
+			"category": "流行"
+		},
+		{
+			"name": "心愿便利贴",
+			"atrist": "大Q秉洛/元若蓝",
+			"category": "流行",
+			"describe": "台视三立《命中注定我爱你》片尾曲"
+		},
+		{
+			"name": "会呼吸的痛",
+			"atrist": "梁静茹",
+			"category": "流行"
+		},
+		{
+			"name": "关不上的窗",
+			"atrist": "周传雄",
+			"category": "流行"
+		},
+		{
+			"name": "拿走了什么",
+			"atrist": "黄丽玲",
+			"category": "流行"
+		},
+		{
+			"name": "山楂树之恋",
+			"atrist": "程佳佳",
+			"category": "流行"
+		},
+		{
+			"name": "咱们结婚吧",
+			"atrist": "齐晨",
+			"category": "流行"
+		},
+		{
+			"name": "隐形的翅膀",
+			"atrist": "张韶涵",
+			"category": "流行",
+			"describe": "电视剧《爱杀17》片尾曲"
+		},
+		{
+			"name": "和你在一起",
+			"atrist": "乔任梁",
+			"category": "流行"
+		},
+		{
+			"name": "反方向的钟",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "走过咖啡屋",
+			"atrist": "千百惠",
+			"category": "流行"
+		},
+		{
+			"name": "雪下的时候",
+			"atrist": "乔佳旭",
+			"category": "流行"
+		},
+		{
+			"name": "星辰不坠落",
+			"atrist": "肖迈",
+			"category": "流行"
+		},
+		{
+			"name": "等不来花开",
+			"atrist": "傅梦彤",
+			"category": "流行"
+		},
+		{
+			"name": "看我72变",
+			"atrist": "蔡依林",
+			"category": "流行"
+		},
+		{
+			"name": "勇气大爆发",
+			"atrist": "贝乐虎/土豆王国小乐队/奶糖乐团",
+			"category": "流行"
+		},
+		{
+			"name": "下个路口见",
+			"atrist": "李宇春",
+			"category": "流行"
+		},
+		{
+			"name": "其实都没有",
+			"atrist": "烟(许佳豪)",
+			"category": "流行",
+			"describe": "遗憾版"
+		},
+		{
+			"name": "女人的选择",
+			"atrist": "姜育恒",
+			"category": "流行"
+		},
+		{
+			"name": "离别开出花",
+			"atrist": "就是南方凯",
+			"category": "流行"
+		},
+		{
+			"name": "Letting Go",
+			"atrist": "蔡健雅",
+			"category": "流行"
+		},
+		{
+			"name": "那女孩对我说",
+			"atrist": "黄义达",
+			"category": "流行"
+		},
+		{
+			"name": "永不失联的爱",
+			"atrist": "周兴哲",
+			"category": "流行"
+		},
+		{
+			"name": "才华有限公司",
+			"atrist": "金玟岐",
+			"category": "流行"
+		},
+		{
+			"name": "如果可以原谅",
+			"atrist": "少司命",
+			"category": "流行"
+		},
+		{
+			"name": "阿拉斯加海湾",
+			"atrist": "蓝心羽",
+			"category": "流行"
+		},
+		{
+			"name": "烟火里的尘埃",
+			"atrist": "华晨宇",
+			"category": "流行"
+		},
+		{
+			"name": "雪落下的声音",
+			"atrist": "陆虎",
+			"category": "流行"
+		},
+		{
+			"name": "一百万个可能",
+			"atrist": "虎二",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "好想好想",
+			"atrist": "古巨基",
+			"category": "流行",
+			"describe": "电视剧《情深深雨濛濛》片尾曲"
+		},
+		{
+			"name": "第一次爱的人",
+			"atrist": "王心凌",
+			"category": "流行"
+		},
+		{
+			"name": "想要在你身边",
+			"atrist": "音阙诗听/王梓钰/锦零",
+			"category": "流行"
+		},
+		{
+			"name": "后来我们的爱",
+			"atrist": "陆杰awr",
+			"category": "流行"
+		},
+		{
+			"name": "蒲公英的约定",
+			"atrist": "周杰伦",
+			"category": "流行"
+		},
+		{
+			"name": "这世界那么多人",
+			"atrist": "莫文蔚",
+			"category": "流行",
+			"describe": "电影《我要我们在一起》主题曲"
+		},
+		{
+			"name": "落在生命里的光",
+			"atrist": "尹昔眠",
+			"category": "流行"
+		},
+		{
+			"name": "流浪的猫写情诗",
+			"atrist": "音阙诗听/李佳思",
+			"category": "流行"
+		},
+		{
+			"name": "你离开后的天空",
+			"atrist": "唐伯虎Annie",
+			"category": "流行"
+		},
+		{
+			"name": "白月光与朱砂痣",
+			"atrist": "大仔",
+			"category": "流行"
+		},
+		{
+			"name": "致姗姗来迟的你",
+			"atrist": "阿肆/林宥嘉",
+			"category": "流行"
+		},
+		{
+			"name": "芦苇丛里的月亮",
+			"atrist": "少司命/洛绯烟",
+			"category": "流行"
+		},
+		{
+			"name": "听见下雨的声音",
+			"atrist": "魏如昀",
+			"category": "流行"
+		},
+		{
+			"name": "女孩儿与四重奏",
+			"atrist": "丁薇",
+			"category": "流行"
+		},
+		{
+			"name": "不为谁而作的歌",
+			"atrist": "林俊杰",
+			"category": "流行"
+		},
+		{
+			"name": "莫斯科没有眼泪",
+			"atrist": "Twins",
+			"category": "流行"
+		},
+		{
+			"name": "我爱你不问归期",
+			"atrist": "如果是我的",
+			"category": "流行"
+		},
+		{
+			"name": "时间都去哪儿了",
+			"atrist": "王铮亮",
+			"category": "流行",
+			"describe": "电视剧《老牛家的战争》主题曲"
+		},
+		{
+			"name": "被风吹过的夏天",
+			"atrist": "林俊杰/金莎",
+			"category": "流行",
+			"describe": "电视剧《最佳前男友》插曲"
+		},
+		{
+			"name": "你是人间四月天",
+			"atrist": "邵帅",
+			"category": "流行"
+		},
+		{
+			"name": "我期待的不是雪",
+			"atrist": "张妙格",
+			"category": "流行"
+		},
+		{
+			"name": "父亲写的散文诗",
+			"atrist": "许飞",
+			"category": "流行"
+		},
+		{
+			"name": "好想爱这个世界啊",
+			"atrist": "华晨宇",
+			"category": "流行"
+		},
+		{
+			"name": "友情多余暧昧未够",
+			"atrist": "珊珊",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "亲爱的，那不是爱情",
+			"atrist": "张韶涵",
+			"category": "流行"
+		},
+		{
+			"name": "我的悲伤是水做的",
+			"atrist": "ChiliChill/洛天依",
+			"category": "流行"
+		},
+		{
+			"name": "刻在我心底的名字",
+			"atrist": "卢广仲",
+			"category": "流行",
+			"describe": "电影《刻在你心底的名字》主题曲"
+		},
+		{
+			"name": "那年夏天宁静的海",
+			"atrist": "王心凌",
+			"category": "流行"
+		},
+		{
+			"name": "爱是奖励还是惩罚",
+			"atrist": "张彦松",
+			"category": "流行"
+		},
+		{
+			"name": "还是你的笑容最可爱",
+			"atrist": "音阙诗听/泠鸢yousa/王梓钰",
+			"category": "流行"
+		},
+		{
+			"name": "世间美好与你环环相扣",
+			"atrist": "柏松",
+			"category": "流行"
+		},
+		{
+			"name": "世界这么大还是遇见你",
+			"atrist": "程响",
+			"category": "流行",
+			"describe": ""
+		},
+		{
+			"name": "穷极一生到不了的天堂",
+			"atrist": "",
+			"category": "流行",
+			"describe": ""
+		}
+	],
+	"古风": [
+		{
+			"name": "山鬼",
+			"atrist": "Winky诗",
+			"category": "古风"
+		},
+		{
+			"name": "千古",
+			"atrist": "阿兰",
+			"category": "古风",
+			"describe": "电视剧《花千骨》片头曲"
+		},
+		{
+			"name": "落砂",
+			"atrist": "刘闯",
+			"category": "古风"
+		},
+		{
+			"name": "葬仙",
+			"atrist": "叶里/苑舍",
+			"category": "古风"
+		},
+		{
+			"name": "相思",
+			"atrist": "毛阿敏",
+			"category": "古风",
+			"describe": "电视剧《西游记后传》片尾曲"
+		},
+		{
+			"name": "芒种",
+			"atrist": "音阙诗听/赵方婧",
+			"category": "古风"
+		},
+		{
+			"name": "芊芊",
+			"atrist": "盼初晓",
+			"category": "古风"
+		},
+		{
+			"name": "沉鱼",
+			"atrist": "姜沉鱼",
+			"category": "古风"
+		},
+		{
+			"name": "画情",
+			"atrist": "姚贝娜",
+			"category": "古风"
+		},
+		{
+			"name": "解忧",
+			"atrist": "邵帅",
+			"category": "古风"
+		},
+		{
+			"name": "说客",
+			"atrist": "音阙诗听/新乐尘符",
+			"category": "古风"
+		},
+		{
+			"name": "慕夏",
+			"atrist": "伊格赛听/要不要买菜",
+			"category": "古风"
+		},
+		{
+			"name": "爱殇",
+			"atrist": "小时姑娘",
+			"category": "古风",
+			"describe": "电视剧《东宫》插曲"
+		},
+		{
+			"name": "怎叹",
+			"atrist": "厘默/陌雪",
+			"category": "古风"
+		},
+		{
+			"name": "蜀绣",
+			"atrist": "李宇春",
+			"category": "古风"
+		},
+		{
+			"name": "上邪",
+			"atrist": "小曲儿",
+			"category": "古风"
+		},
+		{
+			"name": "大喜",
+			"atrist": "泠鸢yousa/音阙诗听",
+			"category": "古风"
+		},
+		{
+			"name": "若梦",
+			"atrist": "周深",
+			"category": "古风"
+		},
+		{
+			"name": "眉间雪",
+			"atrist": "晴愔",
+			"category": "古风",
+			"describe": ""
+		},
+		{
+			"name": "半壶纱",
+			"atrist": "刘珂矣",
+			"category": "古风"
+		},
+		{
+			"name": "醉流年",
+			"atrist": "洛酒/阾溪/千澈",
+			"category": "古风"
+		},
+		{
+			"name": "红昭愿",
+			"atrist": "音阙诗听",
+			"category": "古风"
+		},
+		{
+			"name": "相思垢",
+			"atrist": "金莎",
+			"category": "古风"
+		},
+		{
+			"name": "盗将行",
+			"atrist": "花粥/马雨阳",
+			"category": "古风"
+		},
+		{
+			"name": "虞兮叹",
+			"atrist": "闻人听書_",
+			"category": "古风"
+		},
+		{
+			"name": "菩提偈",
+			"atrist": "刘惜君",
+			"category": "古风",
+			"describe": "电视剧《独孤天下》片尾曲"
+		},
+		{
+			"name": "青花瓷",
+			"atrist": "周杰伦",
+			"category": "古风"
+		},
+		{
+			"name": "西楼尘",
+			"atrist": "陶心瑶",
+			"category": "古风"
+		},
+		{
+			"name": "桃花诺",
+			"atrist": "G.E.M.邓紫棋",
+			"category": "古风",
+			"describe": "电视剧《上古情歌》片尾曲"
+		},
+		{
+			"name": "多情种",
+			"atrist": "胡杨林",
+			"category": "古风"
+		},
+		{
+			"name": "问明月",
+			"atrist": "郁可唯",
+			"category": "古风",
+			"describe": "电视剧《青丘狐传说》主题曲"
+		},
+		{
+			"name": "寸山河",
+			"atrist": "文子轩",
+			"category": "古风"
+		},
+		{
+			"name": "昙华愿",
+			"atrist": "少司命",
+			"category": "古风"
+		},
+		{
+			"name": "画蝶-记·天行九歌·紫女",
+			"atrist": "云の泣",
+			"category": "古风"
+		},
+		{
+			"name": "两相歉",
+			"atrist": "夏kome",
+			"category": "古风"
+		},
+		{
+			"name": "叹郁孤",
+			"atrist": "霄磊",
+			"category": "古风"
+		},
+		{
+			"name": "折子戏",
+			"atrist": "黄阅",
+			"category": "古风"
+		},
+		{
+			"name": "红叶寺",
+			"atrist": "苏玮",
+			"category": "古风"
+		},
+		{
+			"name": "醉诗仙",
+			"atrist": "邹念慈",
+			"category": "古风"
+		},
+		{
+			"name": "不谓侠",
+			"atrist": "萧忆情Alex",
+			"category": "古风"
+		},
+		{
+			"name": "半面妆",
+			"atrist": "爱乐团王超",
+			"category": "古风"
+		},
+		{
+			"name": "画中仙",
+			"atrist": "金莎",
+			"category": "古风"
+		},
+		{
+			"name": "红颜旧",
+			"atrist": "崔子格",
+			"category": "古风"
+		},
+		{
+			"name": "春三月",
+			"atrist": "司南",
+			"category": "古风"
+		},
+		{
+			"name": "九张机",
+			"atrist": "叶炫清",
+			"category": "古风"
+		},
+		{
+			"name": "木偶戏",
+			"atrist": "张杰源",
+			"category": "古风"
+		},
+		{
+			"name": "寄明月",
+			"atrist": "SING女团",
+			"category": "古风"
+		},
+		{
+			"name": "春不晚",
+			"atrist": "司南",
+			"category": "古风"
+		},
+		{
+			"name": "不问天",
+			"atrist": "说说Crystal",
+			"category": "古风"
+		},
+		{
+			"name": "烟雨行舟",
+			"atrist": "伦桑",
+			"category": "古风"
+		},
+		{
+			"name": "浪人琵琶",
+			"atrist": "胡66",
+			"category": "古风"
+		},
+		{
+			"name": "落叶飞霜",
+			"atrist": "少司命",
+			"category": "古风",
+			"describe": "秦时明月动画少司命官方主题曲"
+		},
+		{
+			"name": "烟笼长安",
+			"atrist": "少司命",
+			"category": "古风"
+		},
+		{
+			"name": "西楼别序",
+			"atrist": "尹昔眠/小田音乐社",
+			"category": "古风"
+		},
+		{
+			"name": "烟花易冷",
+			"atrist": "曲曲悦",
+			"category": "古风"
+		},
+		{
+			"name": "大浪淘沙",
+			"atrist": "玄觞",
+			"category": "古风"
+		},
+		{
+			"name": "鲛人之殇",
+			"atrist": "韩丹",
+			"category": "古风",
+			"describe": "电影《人鱼江湖》主题曲"
+		},
+		{
+			"name": "冠世一战",
+			"atrist": "言和",
+			"category": "古风"
+		},
+		{
+			"name": "万象霜天",
+			"atrist": "赤羽/忘川风华录",
+			"category": "古风"
+		},
+		{
+			"name": "一生等你",
+			"atrist": "蒋雪儿",
+			"category": "古风"
+		},
+		{
+			"name": "天行九歌",
+			"atrist": "霍尊",
+			"category": "古风"
+		},
+		{
+			"name": "天涯寄北",
+			"atrist": "阿兰",
+			"category": "古风"
+		},
+		{
+			"name": "此曲赠与君",
+			"atrist": "音阙诗听/王梓钰",
+			"category": "古风"
+		},
+		{
+			"name": "吹梦到西洲",
+			"atrist": "刘思涵",
+			"category": "古风",
+			"describe": "电视剧《玲珑》先导曲/插曲"
+		},
+		{
+			"name": "折枝花满衣",
+			"atrist": "泽典",
+			"category": "古风"
+		},
+		{
+			"name": "山外小楼夜听雨",
+			"atrist": "任然",
+			"category": "古风"
+		},
+		{
+			"name": "杨花落尽子规啼",
+			"atrist": "G2er/黄诗扶/国风堂",
+			"category": "古风"
+		}
+	],
+	"戏腔": [
+		{
+			"name": "赤伶",
+			"atrist": "HITA",
+			"category": "戏腔"
+		},
+		{
+			"name": "青丝",
+			"atrist": "时光胶囊",
+			"category": "戏腔"
+		},
+		{
+			"name": "探窗",
+			"atrist": "汐音社/浮生梦",
+			"category": "戏腔"
+		},
+		{
+			"name": "难却",
+			"atrist": "平生不晚",
+			"category": "戏腔"
+		},
+		{
+			"name": "牵丝戏",
+			"atrist": "银临/Aki阿杰",
+			"category": "戏腔"
+		},
+		{
+			"name": "广寒宫",
+			"atrist": "何杰玲",
+			"category": "戏腔"
+		},
+		{
+			"name": "木兰行",
+			"atrist": "忘川风华录/苍穹",
+			"category": "戏腔"
+		},
+		{
+			"name": "入阵曲",
+			"atrist": "五月天",
+			"category": "戏腔"
+		},
+		{
+			"name": "回马枪",
+			"atrist": "张晓棠",
+			"category": "戏腔"
+		},
+		{
+			"name": "千秋梦",
+			"atrist": "龚琳娜",
+			"category": "戏腔"
+		},
+		{
+			"name": "不问天",
+			"atrist": "说说Crystal",
+			"category": "戏腔"
+		},
+		{
+			"name": "绝世舞姬",
+			"atrist": "张晓涵/戚琦",
+			"category": "戏腔"
+		},
+		{
+			"name": "盗墓笔记·十年人间",
+			"atrist": "李常超 (Lao乾妈)",
+			"category": "戏腔",
+			"describe": "八一七稻米节主题推广曲"
+		},
+		{
+			"name": "繁华唱遍",
+			"atrist": "乐正绫",
+			"category": "戏腔"
+		},
+		{
+			"name": "长安姑娘",
+			"atrist": "李琛",
+			"category": "戏腔"
+		},
+		{
+			"name": "清明上河图",
+			"atrist": "李玉刚",
+			"category": "戏腔"
+		}
+	],
+	"粤语": [
+		{
+			"name": "圆",
+			"atrist": "AGA",
+			"category": "粤语"
+		},
+		{
+			"name": "最爱",
+			"atrist": "周慧敏",
+			"category": "粤语"
+		},
+		{
+			"name": "梦伴",
+			"atrist": "梅艳芳",
+			"category": "粤语"
+		},
+		{
+			"name": "不该用情",
+			"atrist": "小阿峰",
+			"category": "粤语"
+		},
+		{
+			"name": "月半小夜曲",
+			"atrist": "李克勤",
+			"category": "粤语"
+		}
+	]
+}

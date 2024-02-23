@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol,
+nav {
+  list-style: none;
+}
+
+body {
+  margin: 0 auto;
+  line-height: 1.5;
+  font-family: system-ui, "Heiti SC", tahoma, arial,
+    Hiragino Sans GB, "\5B8B\4F53", sans-serif;
+  overflow-x: hidden;
+  background: url(../assets/background.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+:root {
+  font-size: 10px;
+}
+
+.app {
+  max-width: 1200px;
+  margin: auto;
+  padding: 6px;
+  font-size: 12px;
+}
+
+.user-info {
+  display: flex;
+}
+
+.user-info img {
+  width: 8rem;
+  height: 8rem;
+  margin-right: 1rem;
+}
+
+.info-introduction {
+  font-size: 1.5rem;
+}
+
+.user-info div p:nth-child(1) {
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.text-highlight {
+  display: inline-block;
+  color: red;
+  font-weight: bold;
+}
+
+.list-item-visibility {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 30px;
+}
+
+
+.tip {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin: 1rem 0;
+  padding: 0.5rem 1.5rem;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid rgba(255, 163, 201, 0.5);
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.tip-move,
+.tip-enter-active,
+.tip-leave-active {
+  transition: all 0.4s;
+}
+
+.tip-enter-from {
+  opacity: 0;
+  transform: translateY(-30px);
+}
+
+.tip-leave-to {
+  opacity: 0;
+}
+
+.tip-leave-active {
+  position: absolute;
+}
+
+#tip {
+  position: fixed;
+  transform: translate(-50%);
+  top: 0;
+  left: 50%;
+  width: 30rem;
+  z-index: 9999;
+}
+
+#tip ul {
+  width: 100%;
+}
