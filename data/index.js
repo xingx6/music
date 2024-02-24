@@ -7,7 +7,6 @@ const { reactive, computed } = Vue;
 
 /** @type {Record<string, MusicList[]>} */
 export const musicListObject = reactive(MusicListData);
-/** 语言筛选 */
 export const categoryFilter = ["ALL", ...Object.keys(musicListObject)];
 
 export const searchKey = {
@@ -28,7 +27,8 @@ export const showMusicListType = reactive({
 
 export const musicListfilterSize = (() => {
   const musicList = Object.values(musicListObject).flat(1);
-  console.log(musicList.slice(352));
+  
+  /** @type {{value:{ len: number; musicKey: Record<string,boolean>;}}} */
   const filterSize = computed(() => {
     let newList = musicList;
 
@@ -46,7 +46,12 @@ export const musicListfilterSize = (() => {
     }
     filterSize("isShow", true);
 
-    return newList.length;
+    const musicKey = newList.reduce((result, currentValue, index) => {
+      result[currentValue.name] = index % 2;
+      return result;
+    }, {});
+
+    return { len: newList.length, musicKey };
   });
   return { total: musicList.length, filterSize: filterSize };
 })();

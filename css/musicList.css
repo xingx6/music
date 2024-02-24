@@ -9,6 +9,7 @@
 .music-list-box::-webkit-scrollbar {
   display: none;
 }
+
 .music-list {
   width: 100%;
   box-sizing: border-box;
@@ -51,6 +52,11 @@
   flex: 1;
 }
 
+.music-list li:nth-child(1) {
+  font-size: clamp(1.4rem, 1.5vw, 1.55rem);
+  font-weight: bold;
+}
+
 .music-list li:nth-child(n+2) p:nth-of-type(1) {
   display: flex;
   width: 100%;
@@ -66,12 +72,7 @@
   display: none !important;
 }
 
-.music-list li:nth-child(event) {
-  font-weight: bold;
-  font-size: clamp(1.4rem, 1.5vw, 1.6rem);
-}
-
-.music-list li:nth-of-type(even):not([style="display:none"]) {
+.music-list li.even{
   background-color: rgba(255, 163, 201, 0.2);
 }
 

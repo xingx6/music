@@ -4,6 +4,7 @@ const { ref } = Vue;
 
 const VMusicList = {
   setup() {
+    const { filterSize } = musicListfilterSize;
     /** 
      * @param {string} name
      * @param {string} atrist
@@ -29,6 +30,7 @@ const VMusicList = {
     return {
       musicListObject,
       show: showMusicListType,
+      filterSize,
       currentIndex,
       copyMusicName,
       updateCurrentIndex
@@ -44,7 +46,7 @@ const VMusicList = {
         <p>描述</p>
       </li>
       <template v-for="(value) in musicListObject">
-        <li class="list-item-visibility" v-for="(item,index) of value" :class="{ 'current':item === currentIndex,'display-none':!(item.isShow && ( show.category === 'ALL' || show.category === item.category)) }"
+        <li class="list-item-visibility" v-for="(item,index) of value" :class="{ 'even':filterSize.musicKey[item.name],'current':item === currentIndex,'display-none':!(item.isShow && ( show.category === 'ALL' || show.category === item.category)) }"
          @click="updateCurrentIndex(item)">
           <p>
             <div class="copy" @click.stop="copyMusicName(item._name,item._atrist)">

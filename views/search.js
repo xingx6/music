@@ -22,8 +22,8 @@ const VSearch = {
   },
   template: `
   <article class="search">
-    <div class="filter-size" v-if="filterSize === total">ALL - {{ filterSize }}</div>
-    <div class="filter-size" v-else>{{ filterSize }} / {{ total }}</div>
+    <div class="filter-size" v-if="filterSize.len === total">ALL - {{ filterSize.len }}</div>
+    <div class="filter-size" v-else>{{ filterSize.len }} / {{ total }}</div>
     <div class="search-input">
       <input id="search" type="search" value="" required  @keyup.enter="search" v-model="searchvalue.value">
       <label>search</label>
