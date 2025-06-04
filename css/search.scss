@@ -1,0 +1,111 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.search-input {
+  position: relative;
+  display: flex;
+  width: 25.5rem;
+  height: 3rem;
+  margin: 0 0.5rem;
+  line-height: 3rem;
+  background-color: hsla(0, 0%, 100%, 0.7);
+  border-radius: 20px;
+  padding: 0 5px 0 14px;
+
+  label {
+    width: 3.5rem;
+    cursor: pointer;
+    &:hover path {
+      fill: rgba(0, 152, 186, 0.5);
+    }
+  }
+}
+input[type=search] {
+  appearance: none;
+  background: none;
+  outline: none;
+  border: 0px;
+  height: 100%;
+  width: 22rem;
+  font-size: 14px;
+}
+
+.filter {
+  width: 100%;
+  margin-top: 5px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  .filter-type {
+    display: flex;
+    margin: 0 1rem;
+
+    .filter-list {
+      position: relative;
+
+      > label {
+        display: block;
+        width: 5rem;
+        text-align: center;
+        cursor: pointer;
+        border-bottom: 2px solid rgba(0, 160, 160, 0.9);
+        background-color: #ffffff70;
+        user-select: none;
+        @supports (backdrop-filter: blur(1px)) {
+          background-size: 4px 4px;
+          backdrop-filter: blur(3px);
+        }
+      }
+
+      ul {
+        position: absolute;
+        width: 100px;
+        border: 2px solid rgba(0, 160, 160, 0.9);
+        box-sizing: border-box;
+        left: -50%;
+        margin-top: 2.5rem;
+        background-color: #ffffff70;
+        transition: .2s;
+        opacity: 0;
+        visibility: hidden;
+        z-index: 10;
+        @supports (backdrop-filter: blur(1px)) {
+          background-size: 4px 4px;
+          backdrop-filter: blur(5px);
+        }
+
+        li {
+          box-sizing: border-box;
+          height: 2.7rem;
+          line-height: 2.7rem;
+          background-color: hsla(0, 0%, 100%, 0.2);
+          text-align: center;
+          cursor: pointer;
+          transition: background-color .15s;
+          &:hover {
+            background-color: rgba(0, 152, 186, 0.5);
+          }
+        }
+        li.text-highlight {
+          color: #00BFA5;
+        }
+      }
+
+      .show-filter-list {
+        margin-top: 0.8rem;
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+  }
+}
+
+.filter-size {
+  width: 100%;
+  font-size: 1.7rem;
+  text-align: center;
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,73 @@
+.song-list {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  background-color: rgba(255, 255, 255, 0.4392156863);
+}
+@supports ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+  .song-list {
+    background-size: 4px 4px;
+    -webkit-backdrop-filter: blur(5px);
+            backdrop-filter: blur(5px);
+  }
+}
+.song-list th {
+  text-align: left;
+  color: #626262;
+  font-size: 13px;
+  padding: 10px 5px 5px 3px;
+}
+.song-list tbody tr:not(.show) {
+  display: none;
+}
+.song-list tbody tr.odd {
+  background-color: rgba(170, 240, 240, 0.3);
+}
+.song-list tbody tr:hover {
+  background-color: rgba(50, 210, 210, 0.5);
+}
+.song-list tbody tr.selected {
+  background-color: rgba(0, 152, 186, 0.5) !important;
+}
+.song-list tbody td {
+  height: 3rem;
+  padding: 5px 5px 5px 3px;
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.song-list tbody td div {
+  cursor: default;
+  width: -moz-fit-content;
+  width: fit-content;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.song-list tbody .text-highlight {
+  color: #FF5722;
+  font-weight: bold;
+}
+.song-list thead th:first-child,
+.song-list tbody tr td:first-child {
+  width: 55%;
+}
+.song-list thead th:nth-child(2),
+.song-list tbody tr td:nth-child(2) {
+  width: 15%;
+}
+.song-list thead th:nth-child(3),
+.song-list thead th:nth-child(4),
+.song-list tbody tr td:nth-child(3),
+.song-list tbody tr td:nth-child(4) {
+  width: 38px;
+}
+.song-list thead th:nth-child(5),
+.song-list tbody tr td:nth-child(5) {
+  width: 20%;
+}
